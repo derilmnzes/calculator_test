@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Dropdown from './Component/DropDown.jsx';
 import { useState } from 'react';
